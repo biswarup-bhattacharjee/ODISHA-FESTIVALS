@@ -23,9 +23,9 @@ This is a website created by HTML only. Here are total five parts and introducti
           "Click here to see types of Festivals in Odisha"
      </summary>
  - Religious Festival(Rath Yatra)<br>
- - Social Festival(Makar Sankranti)
- - Regional Festival(Vasanta Panchami, Dhanu Jatra, Gajalaxmi puja, Raja parba)
- - Lok Utsav(Nabanna)
+ - Social Festival(Makar Sankranti)<br>
+ - Regional Festival(Vasanta Panchami, Dhanu Jatra, Gajalaxmi puja, Raja parba)<br>
+ - Lok Utsav(Nabanna)<br>
  </details>
 
 ## LINK of full project: :point_right: https://biswa2210.github.io/ODISHA-FESTIVALS/. 
